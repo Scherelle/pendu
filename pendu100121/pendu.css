@@ -1,0 +1,59 @@
+#reponse ul li {
+	display: inline-block;
+	margin:10px;
+}
+
+#choix ul li {
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 45px;
+	margin-top: 25px;
+}
+
+#invisible {
+	color: grey;
+}
+
+.btn{
+	height: 75px;
+	width: 100px;
+	background-color: blue ;
+	margin: 10px;
+	display: inline-block;
+}
+
+table {
+	border-collapse: collapse;
+	border: solid;
+	margin-left: 10px;
+}
+
+th,td{
+	
+	border: 2px solid black;	
+	
+}
+.titre{
+	color: #FFFF00;
+	text-align: center;
+	font-weight: 24px;
+	text-decoration-line: underline;
+  	text-decoration-style: double;
+  	text-shadow: 2px 2px #DE3163;
+	
+}
+
+.texte{
+	color: black;
+	text-align: center;
+	text-decoration-style: solid;
+  	text-decoration-style: double;
+  	font-size: 24px;
+  	margin-right: 150px;
+  	margin-left: 150px;
+
+}
+
+#name{
+	margin-left: 10px;
+}
